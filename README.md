@@ -2,4 +2,4 @@
 
 
 CSS Preprocessor: --
-CSS Pattern: --
+CSS Pattern: BEM CSS
